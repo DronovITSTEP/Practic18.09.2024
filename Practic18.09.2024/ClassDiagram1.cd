@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Practic18._09._2024.Human">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAQAAAAIAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Extend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practic18._09._2024.Employee" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Extend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practic18._09._2024.Storekeeper">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAEAAAAAAAAAAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Extend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practic18._09._2024.Cashier">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practic18._09._2024.Saler">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
